@@ -26,4 +26,5 @@ https://ileriayo.github.io/markdown-badges/
 
 
 ## Contact:
-
+[![Email](https://img.shields.io/badge/josemanuel@lermaserver.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](josemanuel@lermaserver.com)
+</br>
