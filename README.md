@@ -1,25 +1,25 @@
 # José Manuel Cuenca Lerma
 
 ## Social Media
-***
+
 - LinkedIn: [José Cuenca](https://www.linkedin.com/in/josemanuelcuencalerma/)
 - Email: josemanuel@lermaserver.com
 
 ## Summary
-***
+
 Software Developer with 5 years of professional experience working with front-end and back-end technologies with their
 implementation on Cloud and inclusion of Machine Learning solutions in the architecture. Skilled in digital transformation of
 startups decreasing paperwork by more than 80% and mentored collaborators to automate processes. Collaborated on high
 performance teams at Globant finishing more than 90% of SCRUM tickets on time and achieving 2 professional certifications.
 
 ## Certifications
-***
+
 - Java SE 8 Programmer, Oracle Certified Associate
 - Google Cloud Certified Associate Cloud Engineer, Google
 - Software Design and Architecture, University of Alberta
 
 ## IT Skills
-***
+
 - Programming Languages: 
   
   <img src="kotlin.svg" alt="Kotlin" width="32" height="32" />
@@ -56,7 +56,6 @@ performance teams at Globant finishing more than 90% of SCRUM tickets on time an
   <img src="googlecloud.svg" alt="Google Cloud Platform" width="32" height="32" />
 
 ## Project Demos
-***
 
 ### El Foráneo
 <img src="icon_foraneo.png" width="120" height="90" alt="Foráneo Img">
@@ -77,7 +76,7 @@ performance teams at Globant finishing more than 90% of SCRUM tickets on time an
 - [Demo](https://drive.google.com/file/d/1V2RhrkHKa99H_4UPLbwBFdpBE4jSk1di/view?usp=drive_link)
 
 ## Achievements
-***
+
 - Veracruz 2023 State Youth Award in the Science and Technology category.
 - State Acknowledgement by fostering UN Sustainable Development Goals in 2021.
 - Participant in the International Project: Mountains Enchanted: The art of water springs in the Italian Alps during August 2019 in
