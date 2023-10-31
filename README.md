@@ -1,5 +1,5 @@
 # José Manuel Cuenca Lerma
-### Software Engineer
+### Software Engineer:)
 
 Software Developer with 5 years of professional experience working with front-end and back-end technologies with its
 implementation on Virtual Private Servers. Skilled in digital transformation of startups decreasing paperwork by more than 80%
